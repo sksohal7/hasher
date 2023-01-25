@@ -29,7 +29,7 @@ apt update upgrade
 
 apt install python2 git
 
-git clone https://github.com/ciku370/hasher
+git clone https://github.com/sksohal7/hasher
 
 cd hasher
 
